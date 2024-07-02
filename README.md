@@ -15,3 +15,6 @@ python3 project.py
 [RIGHT NOW]: Describes the song you input by its track_id
 
 [IN THE FUTURE]: Recommends songs based on inputing your favorite songs by their url
+
+
+https://github.com/EthanMunoz03/SEOProject1/actions/workflows/.yaml/badge.svg
