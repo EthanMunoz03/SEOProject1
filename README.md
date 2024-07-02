@@ -17,4 +17,4 @@ python3 project.py
 [IN THE FUTURE]: Recommends songs based on inputing your favorite songs by their url
 
 
-https://github.com/EthanMunoz03/SEOProject1/actions/workflows/.yaml/badge.svg
+![Status badge I think](https://github.com/EthanMunoz03/SEOProject1/actions/workflows/.yaml/badge.svg)
