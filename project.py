@@ -1,10 +1,11 @@
 # spotify project i think
 import requests
+import os
 import pandas as pd
 import sqlalchemy as db
 
-CLIENT_ID = ""
-CLIENT_SECRET = ""
+CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
+CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
 
 AUTH_URL = 'https://accounts.spotify.com/api/token'
 auth_response = requests.post(AUTH_URL, {
